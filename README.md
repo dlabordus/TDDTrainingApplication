@@ -33,4 +33,4 @@ This will run thucydides junit and thucydides jbehave tests. A Thucydides report
 
 The report will be available in the `target/site/thucydides` directory.
 
-Some cahnges to see Jenkins work.
+Some changes to see Jenkins work.
